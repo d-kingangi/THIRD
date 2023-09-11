@@ -62,7 +62,7 @@ If you are unfamiliar with using `.env` for managing your mnemonics and other ke
 3) Add the following, filling in your own Infura project key and mnemonics:
 
 ```
-MNEMONIC="candy maple cake sugar pudding cream honey rich smooth crumble sweet treat"
+MNEMONIC=""
 INFURA_KEY="<Your Infura Project ID>"
 GANACHE_MNEMONIC="<Your Ganache Mnemonic>"
 GOERLI_MNEMONIC="<Your Goerli Mnemonic>"
